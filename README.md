@@ -1,2 +1,2 @@
 # Gerenciamento-de-Assinaturas
-Projeto em Python de uma sistema de gerenciamento de assinaturas
+Projeto em Python de um sistema de gerenciamento de assinaturas
